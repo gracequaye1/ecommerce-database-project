@@ -54,7 +54,7 @@ The ERD diagram is designed using dbdiagram.io and can be found as `ecommerce_er
 
 ![ERD](ecommerce_erd.png)
 
-## Folder Structure (Optional)
+## Folder Structure 
 
 All files related to the project are stored in the root directory:
 
